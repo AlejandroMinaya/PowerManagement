@@ -1,4 +1,4 @@
-package receivers
+package com.itesm.powermanagement.receivers
 
 import android.content.BroadcastReceiver
 import android.content.Context
